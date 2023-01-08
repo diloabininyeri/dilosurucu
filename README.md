@@ -3,7 +3,7 @@
 
 <br>
 <br>
-kernel resume of Dılo sürücü
+The Resume of Dılo sürücü
 
 
 ```console
