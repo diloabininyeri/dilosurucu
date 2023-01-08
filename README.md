@@ -6,7 +6,7 @@ it works only in linux
 
 The Resume of Dılo sürücü
 
-
+let's create ```dilo-surucu``` command
 ```console
 wget https://raw.githubusercontent.com/diloabininyeri/kernel-resume/main/dilo-surucu
 chmod +x ./dilo-surucu
