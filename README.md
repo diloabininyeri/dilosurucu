@@ -1,6 +1,6 @@
 # Resume
 <br>
-**it works only in linux** 
+it works only in linux
 
 <br>
 
