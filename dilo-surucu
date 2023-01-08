@@ -1,0 +1,5 @@
+#!/bin/bash
+
+content=$(curl  https://raw.githubusercontent.com/diloabininyeri/resume/main/README.md)
+
+echo "$content";
