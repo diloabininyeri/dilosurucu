@@ -1,4 +1,4 @@
-# kernel-resume
+#linux 
 kernel resume of Dılo sürücü
 
 
