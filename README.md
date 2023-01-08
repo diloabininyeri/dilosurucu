@@ -9,3 +9,4 @@ chmod +x ./dilo-surucu
 mv /usr/local/bin
 
 ```
+and ```dilo-surucu``` command is ready
