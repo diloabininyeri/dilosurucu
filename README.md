@@ -1,5 +1,6 @@
 # Resume
-***it works only in linux** 
+**it works only in linux** 
+<br>
 kernel resume of Dılo sürücü
 
 
