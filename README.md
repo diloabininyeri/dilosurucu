@@ -1,12 +1,13 @@
 # Resume
 <br>
-let's create ```dilo-surucu``` command in linux
 **it works only in linux** 
 
 <br>
 <br>
 The Resume of Dılo sürücü
 
+<br>
+let's create ***dilo-surucu*** command 
 
 ```console
 wget https://raw.githubusercontent.com/diloabininyeri/kernel-resume/main/dilo-surucu
