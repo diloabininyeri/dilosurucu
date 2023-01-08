@@ -1,4 +1,5 @@
-#linux 
+# linux 
+
 kernel resume of Dılo sürücü
 
 
