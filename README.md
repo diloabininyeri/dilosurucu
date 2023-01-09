@@ -10,7 +10,7 @@ let's create ```dilo-surucu``` command
 ```console
 wget https://raw.githubusercontent.com/diloabininyeri/kernel-resume/main/dilo-surucu
 chmod +x ./dilo-surucu
-mv /usr/local/bin
+mv dilo-surucu /usr/local/bin
 
 ```
 and ```dilo-surucu``` command is ready in everywhere
