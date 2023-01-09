@@ -2,4 +2,4 @@
 
 content=$(curl -s https://raw.githubusercontent.com/diloabininyeri/resume/main/README.md)
 
-echo "$content"|more;
+echo "$content"|more -10;
